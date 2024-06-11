@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+.container{
+    text-align: center;
+
+}
+h1{
+    font-family: lobster;
+    
+}
+.span1{
+    color: red;
+}
