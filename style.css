@@ -1,16 +1,66 @@
+
 body{
     background-color: black;
     color: white;
+    
 
 }
 .container{
     text-align: center;
+    width: 85%;
+    background-color: rgba(48, 46, 46, 0.816);
+    margin: auto;
+    border-radius: 5%;
+    padding:20px ;
+   
 
 }
 h1{
     font-family: lobster;
+    font-size: 5rem;
+   
+    
     
 }
 .span1{
     color: red;
+}
+.img{
+    border-radius: 40px;
+    width: 400px;
+    box-shadow: red 5px 5px 500px;
+}
+.info{
+    font-size: 1.6rem;
+    text-align: justify;
+    width: 80%;
+    margin: auto;
+}
+h2{
+    color: red;
+    font-family: lobster;
+    font-size: 1.7rem;
+}
+.wikipedia{
+ background-color: black;
+ color: white;
+ text-decoration: none;
+ border: 2px solid darkorange;
+ border-radius: 10px;
+ padding: 1.1rem;
+
+
+}
+.wikipedia:hover{
+    color: red;
+    background-color: rgb(47, 45, 45);
+}
+
+ul{
+    line-height: 2.6rem;
+}
+footer{
+    text-align: center;
+    font-size: 2rem;
+    padding: 1.5rem;
 }
